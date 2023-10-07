@@ -1,2 +1,7 @@
-# Coursera_Deep_Learning_Specialization
-Implementation of Logistic Regression, MLP, CNN, RNN &amp; LSTM from scratch in python. Training of deep learning models for image classification, object detection, and sequence processing (including transformers implementation) in TensorFlow.
+## My Learnings from the Specialization<a name="Learning"></a>
+
+In this five course series, I learned about the foundations of `Deep Learning` by implementing vectorized **neural networks (MLP, CNN, RNN, LSTM) and optimization algorithms (SGD, RMSprop, Adam)** from scratch in Python, building and training deep neural networks in **TensorFlow and Keras** and identifying key parameters in network architecture for hyperparameter tuning.
+
+I learned about the best practices to train and develop test sets and analyzed `bias/variance` for building DL applications, diagnosed and used strategies for reducing errors in ML systems, understand complex ML settings and used **transfer learning for image classification tasks**.
+
+I learned to build and train CNN models **(YOLO for object detection, U-Net for image segmentation, FaceNet for face verification and face recognition)** for visual detection and recognition tasks and to generate art work through neural style transfer by using a pre-trained VGG-19 model. I learned about RNNs, GRUs, LSTMs and transformers and applied them to various NLP/sequence tasks. I used RNNs to built a character-level language model to generate dinosaur names, **LSTMs to built a Seq2seq model for Neural Machine Translation with attention and trigger word detection model**. I used pre-trained transformer models for question-answering and named-entity-recognition tasks.
